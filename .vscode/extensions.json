@@ -1,0 +1,21 @@
+{
+    "recommendations": [
+        "funkyremi.vscode-google-translate",
+        "lior-chamla.google-fonts",
+        "hancel.google-translate",
+        "kameshkotwani.google-search",
+        "benshabatnoam.google-translate-ext",
+        "andrewdircks.google-cloud-platform-ssh",
+        "jaydenlin.google-complete-me",
+        "ravi-rajpurohit.google-search",
+        "mngrm3a.vscode-google-java-formatter",
+        "google-cloud-spanner-ecosystem.google-cloud-spanner-driver",
+        "google-home.google-home-extension",
+        "dumpvn.google-search",
+        "wasimaster.google-inserter",
+        "edward.google-fonts-instant-import",
+        "tenjojeremy.search-google",
+        "utsavvaria.goog-search",
+        "naturallucky.googlesearch"
+    ]
+}
